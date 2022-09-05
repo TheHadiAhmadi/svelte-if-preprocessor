@@ -35,7 +35,7 @@ export default {
           result = removeAt(result, node.start - 1, node.end);
           result = insertAt(result, parent.start, value);
 
-          // TODO fix this
+          // TODO find better solution
           result = replaceAt(result, parent.end - 1, "»");
         }
       },
