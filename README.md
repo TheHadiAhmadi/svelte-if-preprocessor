@@ -15,4 +15,8 @@ to:
   Show
 </button>
 {/if}
+
 ```
+
+# TODO: use prettier
+https://gist.github.com/mizchi/d9be0ec969203f32f66e5f6eda9decb9
